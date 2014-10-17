@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[poe:home|Door43 (poe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-poe|d43-poe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-poe/archive/master.zip|d43-poe.zip]]
+
+**Recent Changes**
+{{changes>ns = poe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/poe|Ethnologue data]]
+
